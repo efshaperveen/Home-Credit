@@ -32,6 +32,7 @@ home_credit_streamlit/
 
 ## Run
 pip install -r requirements.txt
+
 streamlit run app.py
 
 ## Libraries
